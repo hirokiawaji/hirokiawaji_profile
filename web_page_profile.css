@@ -49,6 +49,10 @@
   text-decoration: none;
   color:black;
 }
+.notes{
+  text-decoration: none;
+  color:black;
+}
 .profile{
   text-decoration: none;
   color:black;
@@ -64,6 +68,9 @@
   color:gray;
 }
 .home:hover{
+  color:gray;
+}
+.notes:hover{
   color:gray;
 }
 h1{
